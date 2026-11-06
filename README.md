@@ -25,6 +25,8 @@ salaryMin–Max      59,000–86,000 EUR (estimate)
 
 See [`sample_output.json`](sample_output.json) for complete records.
 
+📖 Step-by-step tutorial: [Get every new Xing job, with salaries, into a spreadsheet every morning](https://dev.to/angelrxdriguez/get-every-new-xing-job-with-salaries-into-a-spreadsheet-every-morning-3cjc)
+
 ## Quick start
 
 1. Create a free account on [Apify](https://console.apify.com/sign-up) and copy your API token from
