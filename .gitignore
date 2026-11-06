@@ -1,0 +1,6 @@
+node_modules/
+__pycache__/
+.venv/
+.env
+*.csv
+english_remote_jobs.json

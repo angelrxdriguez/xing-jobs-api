@@ -1,0 +1,10 @@
+{
+  "name": "xing-jobs-api-examples",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Examples for the Xing Jobs Scraper on Apify",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
